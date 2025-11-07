@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  redis:
+  - apiVersion: v2
+    appVersion: "7.4"
+    created: "2025-11-07T05:02:03.803424327Z"
+    digest: 49019823d5cbc205b075d19666b3a1d1efbb66689aa2523b2f89ae5ef58f0a57
+    name: redis
+    urls:
+    - https://github.com/Mmdjvd-br/hel-chart-redis/releases/download/redis-0.1.0/redis-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-07T05:02:03.803449854Z"
